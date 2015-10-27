@@ -1,5 +1,7 @@
 Arquivo JS
 
+Jquery
+
 Scrip
 teste
 
